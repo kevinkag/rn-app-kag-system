@@ -1,0 +1,33 @@
+import trash from '../assets/trash.svg'
+import edit from '../assets/edit.svg'
+import units from '../assets/units.svg'
+import dollar from '../assets/dollar.svg'
+import more from '../assets/more.svg'
+import codebar from '../assets/codebar.svg'
+import search from '../assets/search.svg'
+import squareadd from '../assets/squareadd.svg'
+import close from '../assets/close.svg'
+import up from '../assets/up.svg'
+import down from '../assets/down.svg'
+import noimage from '../assets/noimage.svg'
+import add from '../assets/add.svg'
+import flashlight from '../assets/flashlight.svg'
+import filter from '../assets/filter.svg'
+import orderBy from '../assets/orderBy.svg'
+import orderByAsc from '../assets/orderByAsc.svg'
+import addproduct from '../assets/squareadd.svg'
+import total from '../assets/totall.svg'
+import toBackScan from '../assets/toBackScan.svg'
+import test from '../assets/test.svg'
+import loading from '../assets/loading.svg'
+import check from '../assets/check.svg'
+import qr from '../assets/qr.svg'
+import statistic from '../assets/statistic.svg'
+import devolucion from '../assets/return.svg'
+import back from '../assets/back.svg'
+import next from '../assets/next.svg'
+
+
+export {
+    trash, filter, edit, units, back, next, devolucion, statistic, qr, loading, dollar, check, test, toBackScan, more, codebar, total, orderByAsc, search, squareadd, close, orderBy, up, down, noimage, add, addproduct, flashlight
+}

@@ -1,0 +1,8 @@
+{
+      "workbench.colorTheme": "Bluloco Dark",
+      "workbench.colorCustomizations": {
+            "editor.background": "#141414", // Cambia "#000" al color que desees
+            "editor.border": "#f0f", // Cambia "#FF0000" al color que desees para los bordes del editor
+            "sideBar.background": "#131313", // Cambia "#333333" al color que desees para la barra lateral
+      }
+}
